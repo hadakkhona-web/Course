@@ -1,3 +1,5 @@
 you can use the command:
 	git config --get-regexp ^alias
 to see the list of tha aliases that you create
+
+ You can search in the internet for ' git alias list ' to find some good aliases that can be so helpfull
